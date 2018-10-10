@@ -1,0 +1,7 @@
+
+spring:
+  cloud:
+    gcp:
+      spanner:
+        instance-id: pas-spanner
+        database: employees-db
